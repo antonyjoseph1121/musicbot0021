@@ -12,7 +12,7 @@
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID",
-      "value": ""
+      "value": "27993054"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
