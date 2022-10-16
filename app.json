@@ -16,15 +16,15 @@
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "61c4971e3ada1ecb7d4541428fe3c4b3"
     },
     "BOT_TOKEN": {
       "description": "Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": ""
+      "value": "5635062230:AAEilBXHBLGSFYZ-DCwEO3X1VznFDjySM-w"
     },
     "OWNER_ID": {
       "description": "The ID of the owner of the bot",
-      "value": ""
+      "value": "Antony Joseph"
     },
     "SUDO_USERS": {
       "description": "The ID of the sudo users of the bot",
